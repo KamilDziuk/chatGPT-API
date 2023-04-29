@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilDziuk/chatGPT-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamilDziuk/chatGPT-API/issues"
+  },
+  "homepage": "https://github.com/KamilDziuk/chatGPT-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
